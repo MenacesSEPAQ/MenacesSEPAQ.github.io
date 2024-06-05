@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Mission
+subtitle: Outil d’aide à la décision pour améliorer la résilience des parcs nationaux aux changements globaux
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Les impacts cumulatifs d’événements climatiques extrêmes et de perturbations variées compromettent la capacité future de ces sites à accomplir leur mission et forcent la Sépaq à revoir et adapter ses pratiques de gestion et de conservation. Des exemples de ces menaces sont:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Insectes
+- Pathogènes
+- Spèces envahissantes
+- Herbivores (surbroutement)
 
-What else do you need?
 
-### My story
+### Notre mission
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ici vous trouverez un outil géomatique d’aide à la décision permettant d’identifier des pratiques permettant d’enrayer ou de limiter l’impact de ces menaces.
