@@ -14,4 +14,4 @@ Les impacts cumulatifs d’événements climatiques extrêmes et de perturbation
 
 ### Notre mission
 
-Ici vous trouverez un outil géomatique d’aide à la décision permettant d’identifier des pratiques permettant d’enrayer ou de limiter l’impact de ces menaces.
+Ici vous trouverez un outil géomatique d’aide à la décision permettant d’identifier des pratiques afin d’enrayer ou de limiter l’impact de ces menaces.
