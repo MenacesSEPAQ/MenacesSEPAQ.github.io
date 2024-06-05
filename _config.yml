@@ -20,16 +20,18 @@ author: Stressors
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Mission: "aboutme"
   
-  Resources:
-    - SÉPAQ: "https://www.sepaq.com"
+  Équipe: "Equipe"
 
   Menaces:
     - Insectes: "Insectes"
     - Maladies: "Maladies"
     - Plantes exotiques: "Plantes_exotiques"
     - Surbroutement: "Surbroutement"
+    
+  Resources:
+    - SÉPAQ: "https://www.sepaq.com"
     
 ################
 # --- Logo --- #
