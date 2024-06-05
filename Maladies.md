@@ -1,5 +1,5 @@
 ---
 layout: page
-  title: Mont-Orford
+  title: Maladies
 ---
 
