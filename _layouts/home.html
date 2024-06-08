@@ -2,12 +2,6 @@
 layout: page
 ---
 
-{% if page.cover-img %}
-<div class="cover-image">
-  <img src="{{ page.cover-img | relative_url }}" alt="Cover Image">
-</div>
-{% endif %}
-
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
