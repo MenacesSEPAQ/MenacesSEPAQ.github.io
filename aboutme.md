@@ -3,7 +3,6 @@ layout: page
 title: Mission
 subtitle: Outil d’aide à la décision pour améliorer la résilience des parcs nationaux aux changements globaux
 cover-img: /assets/img/O1MSB.jpg
-banner_image: /assets/img/01MSB.jpg
 ---
 
 Les impacts cumulatifs d’événements climatiques extrêmes et de perturbations variées compromettent la capacité future de ces sites à accomplir leur mission et forcent la Sépaq à revoir et adapter ses pratiques de gestion et de conservation. Des exemples de ces menaces sont:
