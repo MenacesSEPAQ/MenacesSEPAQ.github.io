@@ -20,8 +20,6 @@ subtitle: Surveiller les menaces, protéger nos parcs!
 
 ### Rolando Trejo-Pérez (Université TÉLUQ, Université de Québec)
 
-Rolando Trejo Pérez
- 
 - Candidat au doctorat en sciences biologiques
 Département de sciences biologiques
 Institut de recherche en biologie végétale (IRBV)
