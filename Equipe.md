@@ -19,3 +19,16 @@ subtitle: Surveiller les menaces, protéger nos parcs!
 ### Deepa Pureswaran (Service Canadien des Forêts)
 
 ### Rolando Trejo-Pérez (Université TÉLUQ, Université de Québec)
+
+Rolando Trejo Pérez
+ 
+- Candidat au doctorat en sciences biologiques
+Département de sciences biologiques
+Institut de recherche en biologie végétale (IRBV)
+Université de Montréal
+ 
+- Stagiaire postdoctoral
+Département Science et technologie
+TÉLUQ, Université du Québec
+ 
+E-mail: rolando.trejo.perez@umontreal.ca
