@@ -1,29 +1,31 @@
-<div class="banner-slider">
-  <div><img src="{{ site.baseurl }}/assets/img/01Boucherville.jpg" alt="Slide 1"></div>
-  <div><img src="{{ site.baseurl }}/assets/img/01Frontenac.jpg" alt="Slide 2"></div>
-  <div><img src="{{ site.baseurl }}/assets/img/01MSB.jpg" alt="Slide 3"></div>
-  <!-- Add more slides as needed -->
-</div>
-
-<!-- Comment out or remove the old header-big-imgs div if it conflicts with the slider -->
-{# 
-<div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}>
-  {% for bigimg in page.cover-img %}
-  {% assign imgnum = forloop.index %}
-  {% for imginfo in bigimg %}
-  {% if imginfo[0] %}
-    data-img-src-{{ imgnum }}="{{ imginfo[0] | absolute_url }}"
-    data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
-  {% else %}
-    data-img-src-{{ imgnum }}="{{ imginfo | absolute_url }}"
-  {% endif %}
-  {% endfor %}
-  {% endfor %}
-></div>
-#}
-
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
   <div class="intro-header {% if page.cover-img %} big-img {% endif %}">
+    <!-- Slick Slider Container -->
+    <div class="banner-slider">
+      <div><img src="{{ site.baseurl }}/assets/img/01Boucherville.jpg" alt="Slide 1"></div>
+      <div><img src="{{ site.baseurl }}/assets/img/01Frontenac.jpg" alt="Slide 2"></div>
+      <div><img src="{{ site.baseurl }}/assets/img/01MSB.jpg" alt="Slide 3"></div>
+      <!-- Add more slides as needed -->
+    </div>
+
+    <!-- Comment out or remove the old header-big-imgs div if it conflicts with the slider -->
+    {# 
+    <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}>
+      {% for bigimg in page.cover-img %}
+      {% assign imgnum = forloop.index %}
+      {% for imginfo in bigimg %}
+      {% if imginfo[0] %}
+        data-img-src-{{ imgnum }}="{{ imginfo[0] | absolute_url }}"
+        data-img-desc-{{ imgnum[1] }}"
+      {% else %}
+        data-img-src-{{ imgnum }}="{{ imginfo | absolute_url }}"
+      {% endif %}
+      {% endfor %}
+      {% endfor %}
+    ></div>
+    #}
+
+    <!-- Intro Header Content -->
     {% if page.cover-img or page.title %}
     <div class="container-md">
       <div class="row">
