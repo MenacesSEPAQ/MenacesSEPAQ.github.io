@@ -24,19 +24,6 @@ layout: null
   --mid-col: #808080;
 }
 
-.banner-slider {
-  width: 100%;
-  height: 100vh; /* Adjust height as needed */
-  overflow: hidden;
-}
-
-.banner-slider img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-
 /* --- General --- */
 
 html {

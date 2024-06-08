@@ -1,18 +1,15 @@
 ---
 layout: page
+bigimg:
+  - "/img/02MSB" : "Mont-Saint-Bruno"
+  - "/img/01Frontenac" : "Frontenac"
+  - "/img/02Boucherville" : "Îles-de-Boucherville"
+  - "/img/04Oka" : "Oka"
 ---
 
 {{ content }}
 
-<div class="banner-slider">
-  {% for slide in page.bigimg %}
-  {% assign img_path = slide | first %}
-  {% assign img_desc = slide | last %}
-  <div>
-    <img src="{{ site.baseurl }}{{ img_path }}" alt="{{ img_desc }}">
-  </div>
-  {% endfor %}
-</div>
+{% assign posts = paginator.posts | default: site.posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
