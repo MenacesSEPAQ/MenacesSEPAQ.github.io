@@ -1,3 +1,23 @@
+<!-- jQuery (necessary for Slick Slider) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Slick Slider JS -->
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<!-- Initialize Slick Slider -->
+<script>
+  $(document).ready(function(){
+    $('.banner-slider').slick({
+      autoplay: true,
+      autoplaySpeed: 2000,
+      dots: true,
+      arrows: false,
+      fade: true,
+      cssEase: 'linear'
+    });
+  });
+</script>
+
 {% if layout.common-ext-js %}
   {% for js in layout.common-ext-js %}
     {% include ext-js.html js=js %}
