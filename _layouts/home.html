@@ -4,8 +4,6 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
-
 <div class="banner-slider">
   {% for slide in page.bigimg %}
   {% assign img_path = slide | first %}

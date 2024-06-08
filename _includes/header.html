@@ -8,7 +8,7 @@
 {% endif %}
 
     <!-- Comment out or remove the old header-big-imgs div if it conflicts with the slider -->
-    {# 
+    { 
     <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}>
       {% for bigimg in page.cover-img %}
       {% assign imgnum = forloop.index %}
@@ -22,7 +22,7 @@
       {% endfor %}
       {% endfor %}
     ></div>
-    #}
+    }
 
     <!-- Intro Header Content -->
     {% if page.cover-img or page.title %}
