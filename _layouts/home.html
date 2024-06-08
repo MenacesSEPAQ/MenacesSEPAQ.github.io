@@ -4,9 +4,9 @@ layout: page
 
 {{ content }}
 
-{% if page.cover-img %}
-<div class="cover-image">
-  <img src="{{ page.cover-img | relative_url }}" alt="Cover Image">
+{% if page.banner_image %}
+<div class="banner">
+  <img src="{{ page.banner_image | relative_url }}" alt="Banner Image">
 </div>
 {% endif %}
 
