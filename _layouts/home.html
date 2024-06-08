@@ -6,6 +6,12 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
+{% if page.cover-img %}
+<div class="cover-image">
+  <img src="{{ page.cover-img | relative_url }}" alt="Cover Image">
+</div>
+{% endif %}
+
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
