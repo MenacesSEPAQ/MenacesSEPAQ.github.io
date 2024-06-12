@@ -29,7 +29,8 @@ navbar-links:
     - Maladies: "Maladies"
     - Plantes exotiques: "Plantes_exotiques"
     - Surbroutement: "Surbroutement"
-    
+  
+  Carte:  
   Resources:
     - SÉPAQ: "https://www.sepaq.com"
     
