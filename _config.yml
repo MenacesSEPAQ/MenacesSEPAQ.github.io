@@ -24,13 +24,13 @@ navbar-links:
   
   Équipe: "Equipe"
 
-  Menaces: "Carte"
+  Menaces:
     - Insectes: "Insectes"
     - Maladies: "Maladies"
     - Plantes exotiques: "Plantes_exotiques"
     - Surbroutement: "Surbroutement"
   
-  Carte:  
+  Carte: "Carte"
   Resources:
     - SÉPAQ: "https://www.sepaq.com"
     
