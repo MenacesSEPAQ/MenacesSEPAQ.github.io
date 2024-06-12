@@ -32,3 +32,8 @@ Département Science et technologie
 TÉLUQ, Université du Québec
  
 E-mail: rolando.trejo.perez@umontreal.ca
+
+### Anthony Dodson (Stagiaire, Université Concordia)
+
+### Autres collaborateurs 
+
