@@ -6,6 +6,8 @@ cover-img: /assets/img/01MSB.jpg
 banner_image: /assets/img/01MSB.jpg
 ---
 
+Voici notre équipe:
+
 ### Elise Filotas (Université TÉLUQ, Université de Québec)
 
 ### Marc-André Villard (Sépaq)
