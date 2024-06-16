@@ -22,7 +22,7 @@ author: Stressors
 navbar-links:
   Mission: "aboutme"
   
-  Équipe: "Equipe"
+  Carte-Outil: "Carte" 
 
   Menaces:
     - Insectes: "Insectes"
@@ -30,10 +30,10 @@ navbar-links:
     - Plantes exotiques: "Plantes_exotiques"
     - Surbroutement: "Surbroutement"
   
-  Carte: "Carte"
   Resources:
     - SÉPAQ: "https://www.sepaq.com"
-    
+
+  Équipe: "Equipe"
 ################
 # --- Logo --- #
 ################
