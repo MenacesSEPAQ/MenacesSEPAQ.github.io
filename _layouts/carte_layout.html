@@ -4,7 +4,20 @@ layout: default
 
 {% include header.html type="page" %}
 {% include nav.html %}
-{% include gtm_body.html %}
+
+<header class="page-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.subtitle }}</h2>
+        {% if page.cover-img %}
+          <img src="{{ page.cover-img | relative_url }}" class="img-fluid" alt="Cover Image">
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</header>
 
 <div class="carte-page">
   {{ content }}
