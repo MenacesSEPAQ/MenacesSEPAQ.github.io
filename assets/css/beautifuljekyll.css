@@ -1123,3 +1123,22 @@ pre {
     display: inline-block;
   }
 }
+
+/* assets/css/beautifuljekyll.css */
+.carte-page .cover-image img {
+  width: 100%;
+  height: auto;
+}
+
+.carte-page .full-width-map {
+  width: 100%;
+  height: calc(100vh - 60px); /* Adjust this if your header/footer is taller */
+  margin: 0;
+  padding: 0;
+}
+
+.carte-page .full-width-map iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
