@@ -5,5 +5,11 @@ layout: default
 {% include header.html type="page" %}
 
 <div class="carte-page">
-  {{ content }}
+  <div class="banner-image">
+    <img src="{{ page.banner_image | relative_url }}" alt="Banner Image">
+  </div>
+  
+  <div class="content">
+    {{ content }}
+  </div>
 </div>
