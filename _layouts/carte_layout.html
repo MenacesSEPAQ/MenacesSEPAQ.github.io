@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<div class="carte-page">
-  {{ content }}
-</div>
+{% include header.html type="page" %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
@@ -30,4 +28,6 @@ layout: default
       {% include comments.html %}
     </div>
   </div>
+</main>
+
 
