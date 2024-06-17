@@ -1133,6 +1133,7 @@ pre {
   height: auto; /* Or adjust height as needed */
   display: block;
   margin: 0 auto; /* Centers the image horizontally */
+  margin-top: 0; /* Adjust as needed */
 }
 
 .full-width-map iframe {
