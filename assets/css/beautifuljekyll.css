@@ -1137,11 +1137,3 @@ pre {
   padding: 0;
 }
 
-/* Ensure banners are displayed correctly */
-.cover-image img,
-.banner-image img {
-  width: 100%;
-  height: auto; /* Or adjust height as needed */
-  display: block;
-  margin: 0 auto; /* Centers the image horizontally */
-}

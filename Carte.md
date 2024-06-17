@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: carte_layout
 title: Carte
 subtitle: Outil d’aide à la décision pour améliorer la résilience des parcs nationaux aux changements globaux
 banner_image: /assets/img/01MSB.jpg
