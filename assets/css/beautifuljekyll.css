@@ -1132,8 +1132,13 @@ pre {
   width: 100%;
   height: auto; /* Or adjust height as needed */
   display: block;
-  margin: 0 auto; /* Centers the image horizontally */
-  margin-top: 0; /* Adjust as needed */
+  margin: 0; /* Centers the image horizontally */
+  padding: 0;
+}
+
+  h1, h2 {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .full-width-map iframe {
@@ -1149,16 +1154,16 @@ pre {
 }
 
 .page-header {
-  padding: 50px 0; /* Adjust the padding as needed */
+  padding: 0px 0; /* Adjust the padding as needed */
   background-color: #f8f9fa; /* Optional background color */
 }
 
 .page-header h1, .page-header h2 {
-  margin-bottom: 20px; /* Adjust spacing between title and subtitle */
+  margin-bottom: 0px; /* Adjust spacing between title and subtitle */
 }
 
 .page-header img {
-  margin-top: 20px; /* Adjust spacing above the image */
+  margin-top: 0px; /* Adjust spacing above the image */
   max-width: 100%;
   height: auto;
 }
