@@ -1141,9 +1141,9 @@ pre {
   height: auto;
 }
 
-  h1, h2 {
+h1, h2 {
   margin: 0;
-  padding: 0;
+  padding: 10px 0;
 }
 
 .full-width-map iframe {
@@ -1160,7 +1160,13 @@ pre {
 
 .page-header {
   text-align: center;
-  margin-bottom: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+/* Adjust the top margin for the main content if necessary */
+main {
+  margin-top: 0; /* Adjust this value if there is still spacing issue */
 }
 
 .carte-page {
