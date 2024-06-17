@@ -3,32 +3,10 @@ layout: default
 ---
 
 {% include header.html type="page" %}
-{% include nav.html %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
-      {% if page.title %}
-        <h1>{{ page.title }}</h1>
-      {% endif %}
-      {% if page.subtitle %}
-        <h2>{{ page.subtitle }}</h2>
-      {% endif %}
-      
-      {% if page.banner_image %}
-        <div class="banner-image">
-          <img src="{{ page.banner_image | relative_url }}" alt="Banner Image" style="width: 100%;">
-        </div>
-      {% endif %}
-
-      {% if page.before-content %}
-        <div class="before-content">
-          {% for file in page.before-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
-
       <div class="carte-page">
         {{ content }}
       </div>
