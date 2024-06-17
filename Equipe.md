@@ -26,11 +26,11 @@ Prof-chercheur: ravageurs forestiers, dynamique des peuplements.
  
 ### François Lorenzetti (Université du Québec en Outaouais)
 
-prof-chercheur: ravageurs forestiers, dynamique des peuplements.
+Prof-chercheur: ravageurs forestiers, dynamique des peuplements.
 
 ### Deepa Pureswaran (Service Canadien des Forêts)
 
-chercheure: ravageurs forestiers, outils d'aide à la décision
+Chercheure: ravageurs forestiers, outils d'aide à la décision
 
 ### Catherine Périer (MRNF)
 
@@ -44,7 +44,7 @@ Représentant des RSCÉ.
 
 ### Patrick Gendreau (Siège social Sépaq)
 
-ingénieur forestier
+Ingénieur forestier
 
 ### René Charest (Siège social Sépaq)
 
