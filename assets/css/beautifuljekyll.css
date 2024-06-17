@@ -1136,9 +1136,14 @@ pre {
   padding: 0;
 }
 
+.page-banner img {
+  width: 100%;
+  height: auto;
+}
+
   h1, h2 {
-  margin-top: 0;
-  padding-top: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .full-width-map iframe {
@@ -1154,18 +1159,8 @@ pre {
 }
 
 .page-header {
-  padding: 0px 0; /* Adjust the padding as needed */
-  background-color: #f8f9fa; /* Optional background color */
-}
-
-.page-header h1, .page-header h2 {
-  margin-bottom: 0px; /* Adjust spacing between title and subtitle */
-}
-
-.page-header img {
-  margin-top: 0px; /* Adjust spacing above the image */
-  max-width: 100%;
-  height: auto;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .carte-page {
