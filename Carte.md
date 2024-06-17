@@ -6,14 +6,6 @@ cover-img: /assets/img/01MSB.jpg
 banner_image: /assets/img/01MSB.jpg
 full-width: true
 ---
-
-<!-- Banner using cover-img -->
-{% if page.cover-img %}
-<div class="cover-image">
-  <img src="{{ page.cover-img | relative_url }}" alt="Cover Image">
-</div>
-{% endif %}
-
 <!-- Banner using banner_image -->
 {% if page.banner_image %}
 <div class="banner-image">
