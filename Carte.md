@@ -5,12 +5,6 @@ subtitle: Outil d’aide à la décision pour améliorer la résilience des parc
 cover-img: /assets/img/01MSB.jpg
 full-width: true
 ---
-<!-- Banner using cover-img -->
-{% if page.cover-img %}
-<div class="cover-image">
-  <img src="{{ page.cover-img | relative_url }}" alt="Cover Image">
-</div>
-{% endif %}
 
 ### Carte Interactive
 
