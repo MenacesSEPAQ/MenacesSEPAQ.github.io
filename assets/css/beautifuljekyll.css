@@ -1126,9 +1126,13 @@ pre {
 
 /* assets/css/beautifuljekyll.css */
 
-.banner-image {
+/* Ensure banners are displayed correctly */
+.cover-image img,
+.banner-image img {
   width: 100%;
-  /* Add other styles as needed */
+  height: auto; /* Or adjust height as needed */
+  display: block;
+  margin: 0 auto; /* Centers the image horizontally */
 }
 
 .full-width-map iframe {
