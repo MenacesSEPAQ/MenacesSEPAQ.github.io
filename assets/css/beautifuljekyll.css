@@ -1148,3 +1148,6 @@ pre {
   padding: 0;
 }
 
+.carte-page {
+  padding: 20px; /* Adjust padding around main content */
+}
