@@ -3,13 +3,8 @@ layout: default
 ---
 
 {% include header.html type="page" %}
+{% include nav.html %}
 
 <div class="carte-page">
-  <div class="banner-image">
-    <img src="{{ page.banner_image | relative_url }}" alt="Banner Image">
-  </div>
-  
-  <div class="content">
-    {{ content }}
-  </div>
+  {{ content }}
 </div>
