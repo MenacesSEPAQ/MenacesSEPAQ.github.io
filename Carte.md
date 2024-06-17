@@ -2,13 +2,13 @@
 layout: page
 title: Carte
 subtitle: Outil d’aide à la décision pour améliorer la résilience des parcs nationaux aux changements globaux
-banner_image: /assets/img/01MSB.jpg
+cover-img: /assets/img/01MSB.jpg
 full-width: true
 ---
-<!-- Banner using banner_image -->
-{% if page.banner_image %}
-<div class="banner-image">
-  <img src="{{ page.banner_image | relative_url }}" alt="Banner Image">
+<!-- Banner using cover-img -->
+{% if page.cover-img %}
+<div class="cover-image">
+  <img src="{{ page.cover-img | relative_url }}" alt="Cover Image">
 </div>
 {% endif %}
 
