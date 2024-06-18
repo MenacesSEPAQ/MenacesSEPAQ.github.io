@@ -30,7 +30,9 @@ navbar-links:
     - Plantes exotiques: "Plantes_exotiques"
     - Surbroutement: "Surbroutement"
   
-  Resources:
+  Ressources:
+    - Guide d'outilisation: "Guide"
+    - Protocoles: "Protocoles"
     - SÉPAQ: "https://www.sepaq.com"
 
   Équipe: "Equipe"
