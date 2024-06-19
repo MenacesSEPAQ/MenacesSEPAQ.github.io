@@ -8,7 +8,7 @@ banner_image: /assets/img/01MSB.jpg
 
 Voici notre équipe:
 
-### Elise Filotas (Université TÉLUQ, Université de Québec)
+### Elise Filotas (Université TÉLUQ, Université du Québec)
 
 - Professeure-chercheuse: modélisation des systèmes écologiques complexes. 
 
@@ -18,13 +18,13 @@ Voici notre équipe:
 
 ### Emma Despland (Université Concordia)
 
-- Professeure-chercheuse:ravageurs forestiers.
+- Professeure-chercheuse: ravageurs forestiers.
 
 ### Louis Bernier (Université Laval)
 
-- Professeur à la retraite: pathogènes forestiers
+- Professeur à la retraite: pathogènes forestiers.
 
-### Daniel Kneeshaw (Université de Québec à Montréal)
+### Daniel Kneeshaw (Université du Québec à Montréal)
 
 - Professeur-chercheur: ravageurs forestiers, dynamique des peuplements.
  
@@ -34,7 +34,7 @@ Voici notre équipe:
 
 ### Deepa Pureswaran (Service Canadien des Forêts)
 
-- Chercheuse: ravageurs forestiers, outils d'aide à la décision
+- Chercheuse: ravageurs forestiers, outils d'aide à la décision.
 
 ### Catherine Périer (MRNF)
 
@@ -42,7 +42,7 @@ Voici notre équipe:
 
 ### Jean-François Houle (Parc national de Plaisance) 
 
-- Représentant des RSCÉ.
+- Représentant des Responsables du service de la conservation et de l'éducation (RSCÉ).
 
 ### Hugues Sanregret (Siège social Sépaq)
 
@@ -52,9 +52,9 @@ Voici notre équipe:
 
 ### René Charest (Siège social Sépaq)
 
-- Spécialiste en conservation
+- Spécialiste en conservation.
 
-### Rolando Trejo-Pérez (Université TÉLUQ, Université de Québec)
+### Rolando Trejo-Pérez (Université TÉLUQ, Université du Québec)
 
 - Stagiaire postdoctoral: écologie forestier.
 
